@@ -62,7 +62,7 @@ Entre los principales obstáculos se encuentran las fallas en la conexión a Int
 
 | Elemento            | Quién / Qué | Detalles / Ejemplos                                      | Representación visual |
 |--------------------|------------|----------------------------------------------------------|----------------------|
-| 🔊 **Emisor**       |            |                                                          |                      |
+| 🔊 **Emisor**       |      Docente y estudiantes      |    El docente transmite orientaciones, instrucciones y contenidos. Los estudiantes comunican ideas, opiniones, investigaciones y respuestas durante las actividades virtuales.                                                      |          https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXU5dTM4MTEwb244dGFkM3Jzbjd4cDVxdmd4azZqMjZmMHlobmxmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uMN4TrmpHbkYmrzgok/giphy.gif            |
 | 👂 **Receptor**     |            |                                                          |                      |
 | 🌐 **Canal**        |            | Ej: Google Meet, Moodle, WhatsApp, correo                |                      |
 | ⚠️ **Ruido**        |            | Ej: desconexión, distracción, mal diseño de contenido    |                      |
