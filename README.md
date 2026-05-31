@@ -71,6 +71,7 @@ Entre los principales obstáculos se encuentran las fallas en la conexión a Int
                 |                      |
 | ⚠️ **Ruido**        |   Internet caído, ruido en su hogar, entretención en otras labores hogareñas         | <img width="500" height="500" alt="Ggo Gibs GIF by zivil" src="https://github.com/user-attachments/assets/b025a69a-0051-435e-b70a-b6d09584fd0a" />
            |
+           
 | 🔁 **Retroalimentación** |  Comentarios de los estudiantes o las presentaciones de sus asignaciones    | Cómo se completa el circuito                             |          <img width="500" height="282" alt="Long Distance Friends GIF by HannahWitton" src="https://github.com/user-attachments/assets/fc2ac1e0-66ce-4ff1-af39-f0bc2fd7b91e" />
             |
 
