@@ -63,7 +63,7 @@ Entre los principales obstáculos se encuentran las fallas en la conexión a Int
 | Elemento            | Quién / Qué | Detalles / Ejemplos                                      | Representación visual |
 |--------------------|------------|----------------------------------------------------------|----------------------|
 | 🔊 **Emisor**       |      Docente     |    El docente transmite orientaciones, instrucciones y contenidos.                            | <img width="480" height="411" alt="Friends Stay Home GIF" src="https://github.com/user-attachments/assets/73c8b71e-23cf-48a3-b4ae-e5a7a8a0804f" />
- |
+ |--------------------|------------|----------------------------------------------------------|----------------------|
 | 👂 **Receptor**     |     Estudiantes       |      Reciben las ideas e información planteadas para desarrollar su actividad            |<img width="400" height="400" alt="Clases Udla GIF by UDLAECUADOR" src="https://github.com/user-attachments/assets/6ea2270b-b6c3-4c1f-83b4-de0c1ecf8c9f" />|
 
 | 🌐 **Canal**        |    Computadora - Aplicaciones como: Google Meet, Moodle, WhatsApp, correo | <img width="480" height="480" alt="gif" src="https://github.com/user-attachments/assets/0b11542f-80ee-4fd5-a9ae-d5ae59aab17d" />
