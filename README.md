@@ -66,7 +66,7 @@ Entre los principales obstáculos se encuentran las fallas en la conexión a Int
  |--------------------|------------|----------------------------------------------------------|----------------------|
 | 👂 **Receptor**     |     Estudiantes       |      Reciben las ideas e información planteadas para desarrollar su actividad            |<img width="400" height="400" alt="Clases Udla GIF by UDLAECUADOR" src="https://github.com/user-attachments/assets/6ea2270b-b6c3-4c1f-83b4-de0c1ecf8c9f" />|
 |--------------------|------------|----------------------------------------------------------|----------------------|
-| 🌐 **Canal**        |    Computadora - Aplicaciones como: Google Meet, Moodle, WhatsApp, correo | <img width="480" height="480" alt="gif" src="https://github.com/user-attachments/assets/0b11542f-80ee-4fd5-a9ae-d5ae59aab17d" />
+| 🌐 **Canal**        |    Computadora - Aplicaciones utilizadas|El medio que utilza el estudiante para recibir sus clases| <img width="480" height="480" alt="gif" src="https://github.com/user-attachments/assets/0b11542f-80ee-4fd5-a9ae-d5ae59aab17d" />
 |--------------------|------------|----------------------------------------------------------|----------------------|                     |
 | ⚠️ **Ruido**        |   Internet caído, ruido en su entorno|     Cuando el estudiante no recibe el mensaje completo debido a factores ajenos a su voluntad    | <img width="500" height="500" alt="Ggo Gibs GIF by zivil" src="https://github.com/user-attachments/assets/b025a69a-0051-435e-b70a-b6d09584fd0a" />
 |--------------------|------------|----------------------------------------------------------|----------------------|           
