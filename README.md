@@ -59,14 +59,12 @@ Entre los principales obstáculos se encuentran las fallas en la conexión a Int
 ## ⚡ 4️⃣ Diseño del circuito comunicativo
 
 📌 *Formato sugerido: tabla o esquema (puede incluir imágenes, íconos, emojis y enlaces).*
-
-| Elemento            | Quién / Qué | Detalles / Ejemplos                                      | Representación visual |
-| 🔊 **Emisor**       |      Docente     |    El docente transmite orientaciones, instrucciones y contenidos.                            | <img width="480" height="411" alt="Friends Stay Home GIF" src="https://github.com/user-attachments/assets/73c8b71e-23cf-48a3-b4ae-e5a7a8a0804f" />
-
-| 👂 **Receptor**     |     Estudiantes       |      Reciben las ideas e información planteadas para desarrollar su actividad            |<img width="400" height="400" alt="Clases Udla GIF by UDLAECUADOR" src="https://github.com/user-attachments/assets/6ea2270b-b6c3-4c1f-83b4-de0c1ecf8c9f" />|
-
-| 🌐 **Canal**        |    Computadora - Aplicaciones utilizadas|El medio que utilza el estudiante para recibir sus clases| <img width="480" height="480" alt="gif" src="https://github.com/user-attachments/assets/0b11542f-80ee-4fd5-a9ae-d5ae59aab17d" />
-
-| ⚠️ **Ruido**        |   Internet caído, ruido en su entorno|     Cuando el estudiante no recibe el mensaje completo debido a factores ajenos a su voluntad    | <img width="500" height="500" alt="Ggo Gibs GIF by zivil" src="https://github.com/user-attachments/assets/b025a69a-0051-435e-b70a-b6d09584fd0a" />  
-
-| 🔁 **Retroalimentación** |  Comentarios de los estudiantes o sus exposiciones   | Los estudiantes demuestran su aprendizaje |Cómo se completa el circuito                             |          <img width="500" height="282" alt="Long Distance Friends GIF by HannahWitton" src="https://github.com/user-attachments/assets/fc2ac1e0-66ce-4ff1-af39-f0bc2fd7b91e" />
+```markdown
+| **Elemento** | **Quién / Qué** | **Detalles / Ejemplos** | **Representación visual** |
+|--------------|-----------------|--------------------------|---------------------------|
+| 🔊 **Emisor** | **Docente** | El docente transmite orientaciones, instrucciones y contenidos. | <img src="https://github.com/user-attachments/assets/73c8b71e-23cf-48a3-b4ae-e5a7a8a0804f" width="220"> |
+| 👂 **Receptor** | **Estudiantes** | Reciben las ideas e información planteadas para desarrollar su actividad. | <img src="https://github.com/user-attachments/assets/6ea2270b-b6c3-4c1f-83b4-de0c1ecf8c9f" width="220"> |
+| 🌐 **Canal** | **Computadora y aplicaciones utilizadas** | Medio que utiliza el estudiante para recibir sus clases y comunicarse con el docente. | <img src="https://github.com/user-attachments/assets/0b11542f-80ee-4fd5-a9ae-d5ae59aab17d" width="220"> |
+| ⚠️ **Ruido** | **Internet caído o ruido en el entorno** | El estudiante no recibe el mensaje completo debido a factores externos. | <img src="https://github.com/user-attachments/assets/b025a69a-0051-435e-b70a-b6d09584fd0a" width="220"> |
+| 🔁 **Retroalimentación** | **Comentarios y exposiciones de los estudiantes** | Los estudiantes demuestran su aprendizaje y completan el circuito comunicativo mediante sus respuestas e intervenciones. | <img src="https://github.com/user-attachments/assets/fc2ac1e0-66ce-4ff1-af39-f0bc2fd7b91e" width="220"> |
+```
