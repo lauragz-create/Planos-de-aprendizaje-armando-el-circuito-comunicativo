@@ -59,12 +59,79 @@ Entre los principales obstáculos se encuentran las fallas en la conexión a Int
 ## ⚡ 4️⃣ Diseño del circuito comunicativo
 
 📌 *Formato sugerido: tabla o esquema (puede incluir imágenes, íconos, emojis y enlaces).*
-```markdown
-| **Elemento** | **Quién / Qué** | **Detalles / Ejemplos** | **Representación visual** |
-|--------------|-----------------|--------------------------|---------------------------|
-| 🔊 **Emisor** | **Docente** | El docente transmite orientaciones, instrucciones y contenidos. | <img src="https://github.com/user-attachments/assets/73c8b71e-23cf-48a3-b4ae-e5a7a8a0804f" width="220"> |
-| 👂 **Receptor** | **Estudiantes** | Reciben las ideas e información planteadas para desarrollar su actividad. | <img src="https://github.com/user-attachments/assets/6ea2270b-b6c3-4c1f-83b4-de0c1ecf8c9f" width="220"> |
-| 🌐 **Canal** | **Computadora y aplicaciones utilizadas** | Medio que utiliza el estudiante para recibir sus clases y comunicarse con el docente. | <img src="https://github.com/user-attachments/assets/0b11542f-80ee-4fd5-a9ae-d5ae59aab17d" width="220"> |
-| ⚠️ **Ruido** | **Internet caído o ruido en el entorno** | El estudiante no recibe el mensaje completo debido a factores externos. | <img src="https://github.com/user-attachments/assets/b025a69a-0051-435e-b70a-b6d09584fd0a" width="220"> |
-| 🔁 **Retroalimentación** | **Comentarios y exposiciones de los estudiantes** | Los estudiantes demuestran su aprendizaje y completan el circuito comunicativo mediante sus respuestas e intervenciones. | <img src="https://github.com/user-attachments/assets/fc2ac1e0-66ce-4ff1-af39-f0bc2fd7b91e" width="220"> |
-```
+
+<h1 align="center">📡 Circuito de la Comunicación</h1>
+
+<div align="center">
+
+<table>
+
+<tr>
+<td align="center" width="50%">
+
+## 🔊 Emisor
+
+<img src="https://github.com/user-attachments/assets/73c8b71e-23cf-48a3-b4ae-e5a7a8a0804f" width="220">
+
+**Docente**
+
+Transmite orientaciones, instrucciones y contenidos.
+
+</td>
+
+<td align="center" width="50%">
+
+## 👂 Receptor
+
+<img src="https://github.com/user-attachments/assets/6ea2270b-b6c3-4c1f-83b4-de0c1ecf8c9f" width="220">
+
+**Estudiantes**
+
+Reciben las ideas e información planteadas para desarrollar su actividad.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+## 🌐 Canal
+
+<img src="https://github.com/user-attachments/assets/0b11542f-80ee-4fd5-a9ae-d5ae59aab17d" width="220">
+
+**Computadora y aplicaciones utilizadas**
+
+Es el medio que utiliza el estudiante para recibir sus clases.
+
+</td>
+
+<td align="center">
+
+## ⚠️ Ruido
+
+<img src="https://github.com/user-attachments/assets/b025a69a-0051-435e-b70a-b6d09584fd0a" width="220">
+
+**Internet caído o ruido en el entorno**
+
+Impide que el mensaje llegue de forma completa.
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+## 🔁 Retroalimentación
+
+<img src="https://github.com/user-attachments/assets/fc2ac1e0-66ce-4ff1-af39-f0bc2fd7b91e" width="260">
+
+**Comentarios y exposiciones de los estudiantes**
+
+Los estudiantes demuestran su aprendizaje y completan el circuito comunicativo mediante sus respuestas e intervenciones.
+
+</td>
+</tr>
+
+</table>
+
+</div>
